@@ -1,7 +1,7 @@
 <div align="center">
-<h1 align="center"> --Julia QA Engineer-- <a href="(https://giphy.com/stickers/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx?utm_source=media-link&utm_medium=landing&utm_campaign=Media+Links&utm_term=)"></a> 👋</h1>
+<h1 align="center"> --Julia QA Engineer-- <a href=""></a> 👋</h1>
 </div>
-<img src="[https://i.imgur.com/weNbhGZ.png](https://user-images.githubusercontent.com/61261654/114380542-d3314f80-9ba7-11eb-847c-31ba132fb4b8.png)](https://giphy.com/stickers/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx?utm_source=media-link&utm_medium=landing&utm_campaign=Media+Links&utm_term=]">
+<img src="[https://giphy.com/stickers/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx?utm_source=media-link&utm_medium=landing&utm_campaign=Media+Links&utm_term=]">
 <!--
 **Juliadisarli/Juliadisarli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
