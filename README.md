@@ -4,7 +4,7 @@
 </div>
 <img src="https://geekflare.com/wp-content/uploads/2020/11/best-software-testing-tools.png">
  
-                         🔭 I’m currently working on OCASA     🌱 Studying Automation Testing        📫 julidisarli@gmail.com 
+                     🔭 I’m currently working on OCASA     🌱 Studying Automation Testing        📫 julidisarli@gmail.com 
                                                            
 
 <br>
