@@ -1,10 +1,10 @@
 <div align="center">
-<h1 align="center"> -- Julia Di Sarli | QA Engineer -- </h1>
+<h1 align="center"> -- Julia Di Sarli | QA Engineer --  <a href="https://www.linkedin.com/in/juliadisarli">Linkedin</a></h1>
 </div>
 <img src="https://geekflare.com/wp-content/uploads/2020/11/best-software-testing-tools.png">
  
-                            🔭 I’m currently working on OCASA     🌱 Studying Automation Testing    📫 julidisarli@gmail.com 
-                                                   https://www.linkedin.com/in/juliadisarli
+                         🔭 I’m currently working on OCASA     🌱 Studying Automation Testing        📫 julidisarli@gmail.com 
+                                                           
 
 <br>
 
