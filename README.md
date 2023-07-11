@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center"> --Julia QA Engineer-- '#97ca00'</h1>
+<h1 align="center"> --Julia QA Engineer-- </h1>
 </div>
 <img src="https://giphy.com/stickers/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx?utm_source=media-link&utm_medium=landing&utm_campaign=Media+Links&utm_term=">
 <!--
