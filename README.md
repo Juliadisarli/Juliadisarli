@@ -2,8 +2,6 @@
 <h1 align="center"> -- Julia Di Sarli | QA Engineer -- </h1>
 </div>
 <img src="https://geekflare.com/wp-content/uploads/2020/11/best-software-testing-tools.png">
-
- ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  
 🔭 I’m currently working on OCASA     🌱 Studying Automation Testing    📫 julidisarli@gmail.com 
 
