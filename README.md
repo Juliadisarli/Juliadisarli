@@ -6,7 +6,7 @@
  
                      🔭 I’m currently working on OCASA     🌱 Studying Automation Testing       📫 julidisarli@gmail.com 
 
-                                                            🌱Always Learning 
+                                                            🧩Always Learning🧩 
                                                            
 
 <br>
