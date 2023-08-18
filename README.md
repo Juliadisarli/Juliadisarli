@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center"> -- Julia Di Sarli | QA Engineer -- </h1>
+<h1 align="center"> -- Julia Di Sarli | QA Engineer 💻 & 📱 -- </h1>
 <h1 align="center"> <a href="https://www.linkedin.com/in/juliadisarli">MyLinkedin</a></h1>
 </div>
 <img src="https://geekflare.com/wp-content/uploads/2020/11/best-software-testing-tools.png">
